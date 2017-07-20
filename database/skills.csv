@@ -1,0 +1,41 @@
+SkillsID, SkillLabel, SkillCategory
+1,Accuracy,Bartender
+2,"Beer, Wine & liquor knowledge",Bartender
+3,Cleaning,Bartender
+4,Collecting and Managing Payments,Bartender
+5,Customer Relations,Bartender
+6,Garnish Preparation,Bartender
+7,Guest Services,Bartender
+8,Hospitality,Bartender
+9,Monitoring alcohol consumption,Bartender
+10,Manual Dexterity,Bartender
+11,Banquet ,Chef
+12,Baking,Chef
+13,Catering,Chef
+14,Culinary Expertise,Chef
+15,Grilling,Chef
+16,Heat Control,Chef
+17,Hotel Kitchen,Chef
+18,Nutrition,Chef
+19,Pastry,Chef
+20,Seasoning,Chef
+21,Administrative Support,Receptionist
+22,Appointment Scheduling,Receptionist
+23,Customer Service focus,Receptionist
+24,Event Planning,Receptionist
+25,Filing,Receptionist
+26,Greeting Visitors,Receptionist
+27,Microsoft Office,Receptionist
+28,Phone calls,Receptionist
+29,Providing Information,Receptionist
+30,Screening and Directing Calls,Receptionist
+31,Bus Tables,Waiter
+32,Cleaning ,Waiter
+33,Food and Beverage Knowledge,Waiter
+34,Greet guests,Waiter
+35,Handle Cash and Credit Transactions,Waiter
+36,Knowledge of Table Setting,Waiter
+37,Maintain table appearance ,Waiter
+38,Memorize Menu and Pricing,Waiter
+39,Working knowledge of sanitation,Waiter
+40,Working Quickly,Waiter

@@ -1,0 +1,41 @@
+PersonalSkillID,PersonalSkillLabel, SkillCategory
+1,Good Memory,Bartender
+2,Communication,Bartender
+3,Friendly,Bartender
+4,Organization,Bartender
+5,Composure,Bartender
+6,Managing stress,Bartender
+7,Flexible,Bartender
+8,Adaptability,Bartender
+9,Reliable,Bartender
+10,Energetic,Bartender
+11,Good Memory,Chef
+12,Communication,Chef
+13,Friendly,Chef
+14,Organization,Chef
+15,Creativity,Chef
+16,Managing stress,Chef
+17,Flexible,Chef
+18,Reliable,Chef
+19,Energetic,Chef
+20,Multitasking,Chef
+21,Communication,Receptionist
+22,Technology,Receptionist
+23,Organization,Receptionist
+24,Multitasking,Receptionist
+25,Professionalism,Receptionist
+26,Punctuality,Receptionist
+27,Reliable,Receptionist
+28,Teamwork,Receptionist
+29,Prioritization,Receptionist
+30,Friendly,Receptionist
+31,Communication,Waiter
+32,Good memory,Waiter
+33,Multitasking,Waiter
+34,Managing Stress,Waiter
+35,Cleanliness,Waiter
+36,Energetic,Waiter
+37,Flexible,Waiter
+38,Enthusiastic,Waiter
+39,Punctuality,Waiter
+40,Teamwork,Waiter
