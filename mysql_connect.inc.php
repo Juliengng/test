@@ -3,16 +3,16 @@
 //database setting
 //database location
 //$db_server = "162.38.73.0";
-$db_server = "viceversvpadmin.mysql.db";
+$db_server = "127.0.0.1";
 //database name
 //$db_name = "boardingates";
-$db_name = "viceversvpadmin";
+$db_name = "db654368330";
 //database admin account
 //$db_user = "admin";
-$db_user = "viceversvpadmin";
+$db_user = "root";
 //database admin account password
 //$db_passwd = "CH93yAhar3UBB4cU";
-$db_passwd = "Boygeorge34";
+$db_passwd = "";
 $link = mysqli_connect($db_server, $db_user, $db_passwd);
 
 //database connection
